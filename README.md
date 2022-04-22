@@ -16,7 +16,7 @@
   * This program features backend code for an eCommerce website that enables the user to view, add, update, and delete categories, products, and tags. 
   
   ## Installation Instructions
-  * In order to install this program, you must have node.js installed first. Download this repository and access it in your terminal of choice. When you are in the root folder enter "npm install" in the terminal to install all necessary packages. Be sure to fill out the env.EXAMPLE file and put your mySQL username and password, then rename the file to just ".env". In the terminal, log in to mySQL and type "source db/schema.sql;" to set up the ecommerce database. Then, in the terminal type "npm run seed" to add starting data. Afterwards, type "npm start" into the prompt to begin the program.
+  * In order to install this program, you must have node.js installed first. Download this repository and access it in your terminal of choice. When you are in the root folder enter "npm install" in the terminal to install all necessary packages. Be sure to fill out the env.EXAMPLE file and put your mySQL username and password, then rename the file to just ".env". In the terminal, log in to mySQL and type "source db/schema.sql;" to set up the ecommerce database. Then, in the terminal type "npm run seed" to add starting data. Afterwards, type "npm start" into the prompt to begin the program. Use Insomnia to easily test the functionality of this program.
 
   * Watch the video on how to install this program and get it running [here](https://www.youtube.com/watch?v=En8c0hSWrPU)
   ![image](./assets/01.PNG)
@@ -28,7 +28,7 @@
   * Currently, no contributions necessary.
   
   ## Test Instructions
-  * No testing required.
+  * No testing through Node, but it is recommended you use Insomnia to test this program. Watch the walkthrough video for more info.
   
   ## License
   * The application is covered under the following license:
